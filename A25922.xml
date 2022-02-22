@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles exhibited in the Parliament against VVilliam Beale, Doctor of Divinity, and Master of St. Johns Colledge in the Vniversity of Cambridge, August the 6th, 1641</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25922</idno>
+            <idno type="STC">Wing A3823</idno>
+            <idno type="STC">ESTC R8946</idno>
+            <idno type="EEBO-CITATION">11654259</idno>
+            <idno type="OCLC">ocm 11654259</idno>
+            <idno type="VID">47998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47998)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 8:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles exhibited in the Parliament against VVilliam Beale, Doctor of Divinity, and Master of St. Johns Colledge in the Vniversity of Cambridge, August the 6th, 1641</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beale, William, d. 1650.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47998:1"/>
+            <p>ARTICLES EXHIBITED In the PARLIAMENT, AGAINST VVILLIAM BEALE, Doctor of <hi>Divinity,</hi> and Maſter of St. <hi>Johns</hi> Colledge in the <hi>Vniver<g ref="char:EOLhyphen"/>ſity</hi> of <hi>Cambridge, Auguſt</hi> the 6th. 1641</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47998:2"/>
+            <pb n="1" facs="tcp:47998:2"/>
+            <head>ARTICLES Exhibited in the <hi>Parliament</hi> againſt WILLIAM BEALE, Doctor of DIVINITY, and MASTER of St. JOHNS COLLEDGE in the Vniverſity of CAMBRIDGE, The 6th. of <hi>Auguſt.</hi> 1641.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat hee preſumptuouſly preached a <hi>Sermon</hi> at St. <hi>Pauls</hi> in London 1640. which did not only con<g ref="char:EOLhyphen"/>taine Hereticall <hi>Doctrine,</hi> but did al<g ref="char:EOLhyphen"/>ſo applaud and extoll the <hi>Papiſts</hi> to be the Kings trueſt Subjects, and moſt Loyall in the whole Kingdome.</p>
+            <p n="2">2. That in another <hi>Sermon</hi> at the ſame
+<pb n="2" facs="tcp:47998:3"/>
+               <hi>Church</hi> he did poſitively confirm with an audatious confidence and inſolency, that the <hi>Puritans</hi> were Traitors to the <hi>Crowns</hi> in three reſpects, (or at leaſt as bad as Traitors.)
+<list>
+                  <item>1. Of their obſtinacy.</item>
+                  <item>2. Of their Schiſmaticall Religion.</item>
+                  <item>3. Of their Diſloyaltie.</item>
+               </list> And therefore in his opinion they ei<g ref="char:EOLhyphen"/>ther ought by coertion to bee compel<g ref="char:EOLhyphen"/>led to their <hi>Conformity,</hi> or to ſuffer ex<g ref="char:EOLhyphen"/>tremity of Law.</p>
+            <p n="3">3. That by ſufficient proof and autho<g ref="char:EOLhyphen"/>rity he preached in St. <hi>Maries</hi> againſt the <hi>Subjects</hi> freedome and liberty.</p>
+            <p n="4">4. That in the ſame <hi>Sermon</hi> hee ſaid it was a ſin of damnation not to bow at the name of <hi>Jeſus,</hi> and his Argu<g ref="char:EOLhyphen"/>ment he produced out of the Scripture falſe quoted, and that the ſin was the ſame for not bowing with ſubmiſſive reverence to the <hi>Comumnion Table</hi>
+               <pb n="3" facs="tcp:47998:3"/>both at our firſt entrance and depar<g ref="char:EOLhyphen"/>ture out of the <hi>Church.</hi>
+            </p>
+            <p n="5">5. That in his <hi>Colledge</hi> he did moſt ty<g ref="char:EOLhyphen"/>rannically uſurp <hi>Conformity,</hi> and did exult in a moſt <hi>Majeſteriall</hi> way, com<g ref="char:EOLhyphen"/>manding the <hi>Deanes</hi> of the ſaid <hi>Col<g ref="char:EOLhyphen"/>ledge</hi> to execute the inflictions of ſe<g ref="char:EOLhyphen"/>vere puniſhments on all thoſe who would not obſerve <hi>Conformity:</hi> as to bow very low at the comming in at the Chappel to the <hi>Communion Table,</hi> and likewiſe at their going out thereof without any exception both of the Fel<g ref="char:EOLhyphen"/>lowes, Schollers and Students of the ſaid Colledge.</p>
+            <p n="6">6. That becauſe thoſe <hi>Papiſticall</hi> In<g ref="char:EOLhyphen"/>novations did oppoſe the pious Con<g ref="char:EOLhyphen"/>ſciences of ſome which would not ob<g ref="char:EOLhyphen"/>ſerve them, there were foure expelled upon the non-performance thereof.</p>
+            <p n="7">7. That after the expulſion of thoſe hee commanded the <hi>Preſident-Lectu<g ref="char:EOLhyphen"/>rers</hi>
+               <pb n="4" facs="tcp:47998:4"/>and <hi>Deanes</hi> to admit none into the Colledge, unleſſe they tooke an abſolute Oath of the performannce thereof.</p>
+            <p n="8">8. That he was the ſole encourager of Dr. <hi>Cozins</hi> in his Vice-Chancellour<g ref="char:EOLhyphen"/>ſhip, to tyranize in that leſuiticall, Po<g ref="char:EOLhyphen"/>piſh, and Canterburian Religion, which doth manifeſtly appeare, firſt, that by his eſpeciall meanes hee was elected Vice-Chancellour, then by his often frequenting, and eucouraging him unto tyrannycall uſurpation, and publicke promulgation of that <hi>Romiſh Religion.</hi>
+            </p>
+            <p n="9">9 That he commanded the Deanes of the ſaid Colledge to ſeverely puniſh ac<g ref="char:EOLhyphen"/>cording to the expreſt infliction who would not likewiſe convert their face toward the Eaſt, at <hi>Glory be to the Father, &amp;c.</hi> and many times in Divine <hi>Service,</hi> ſo that he did luxuriouſly
+<pb n="5" facs="tcp:47998:4" rendition="simple:additions"/>introduce Popiſh Innovations, and Ceremo<g ref="char:EOLhyphen"/>nies.</p>
+            <p n="10">10. That at the Offring at the Communion he compelled the Fellowes to give 12. pence, the Batchellors of Arts 8. pence, and the Penſio<g ref="char:EOLhyphen"/>ners 6. pence, &amp; the Subſizers 4. pence, which after it was collected was never given to the poore according to the intent of thoſe which gave it charitably, but was forthwith put to their private uſe either for erecting Pictures, or Images, or divers others Idola<g ref="char:EOLhyphen"/>trous things, or Wax-candles, and a nume<g ref="char:EOLhyphen"/>rous multiplicity of the like deteſtations.</p>
+            <p n="11">11. That hee did ſeduce and allure divers young <hi>Students</hi> out of other Colledges, promiſing them upon their Conformitie great preferment in his Colledge, which he did frequently: and thoſe who were proper for preferment, were fruſtrated and with<g ref="char:EOLhyphen"/>all greatly contemned without any reſpect, becauſe they did not obſerve his Papiſti<g ref="char:EOLhyphen"/>call Superſtition.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
